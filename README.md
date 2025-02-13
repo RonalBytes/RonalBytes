@@ -9,7 +9,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola soy Ronaldo Elias! 
-*Digital Craftsman (Developer / Programmer)*
+*INGENIERO EN SISTEMAS COMPUTACIONAL (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
@@ -23,7 +23,7 @@
 <!--End Intro-->
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tecnologias Utilizadas & Proyectos Recientes</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -31,11 +31,11 @@
 </picture>
 <br />
 
-<h3 align="left">Current Learning</h3>
+<h3 align="left">Aprendizaje Actual</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Profundizando mis conocimientos en el mundo backend.</li>
+  <li>Explorando el mundo de machine learning y AI.</li>
+  <li>mejorando mis habilidad en computaaón en la nube con AWS y Azure.</li>
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
