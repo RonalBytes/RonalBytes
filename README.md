@@ -87,7 +87,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Responsable del desarrollo de la plataforma web para la gestión de inscripciones de estudiantes del Instituto Educación Ambiental (IEA), bajo la gestión exclusiva de Soluciones Químicas Ambientales. Se implementaron funcionalidades para simplificar y automatizar el proceso de inscripción, mejorando la eficiencia administrativa y la experiencia del usuario.</p>
 </div>
                                                                                       
 </td>
@@ -96,7 +96,7 @@
                <br>
 <h3 align="center">plataforma web para la autenticación y gestión integral del personal</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/3jFqdV4.png" width="420" alt="Plataforma de gestion PHP"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/3jFqdV4.png" width="450" alt="Plataforma de gestion PHP"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
