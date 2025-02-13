@@ -87,7 +87,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Responsable del desarrollo de la plataforma web para la gestión de inscripciones de estudiantes para un Instituto del peru , bajo la gestión exclusiva de la empresa. Se implementaron funcionalidades para simplificar y automatizar el proceso de inscripción, mejorando la eficiencia administrativa y la experiencia del usuario. "Esta versión en GitHub es solo una demostración y no representa la plataforma en producción."</p>
+<p>Responsable del desarrollo de la plataforma web para la gestión de inscripciones de estudiantes para un Instituto del peru , bajo la gestión exclusiva de la empresa. Se implementaron funcionalidades para simplificar y automatizar el proceso de inscripción, mejorando la eficiencia administrativa y la experiencia del usuario. "Esta versión en GitHub es solo una demostración creada desde cero y no representa la plataforma en producción."</p>
 </div>
                                                                                       
 </td>
