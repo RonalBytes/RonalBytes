@@ -87,7 +87,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Responsable del desarrollo de la plataforma web para la gestión de inscripciones de estudiantes del Instituto Educación Ambiental (IEA), bajo la gestión exclusiva de Soluciones Químicas Ambientales. Se implementaron funcionalidades para simplificar y automatizar el proceso de inscripción, mejorando la eficiencia administrativa y la experiencia del usuario.</p>
+<p>Responsable del desarrollo de la plataforma web para la gestión de inscripciones de estudiantes para un Instituto del peru , bajo la gestión exclusiva de la empresa. Se implementaron funcionalidades para simplificar y automatizar el proceso de inscripción, mejorando la eficiencia administrativa y la experiencia del usuario. "Esta versión en GitHub es solo una demostración y no representa la plataforma en producción."</p>
 </div>
                                                                                       
 </td>
@@ -106,7 +106,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Lideré el desarrollo de una plataforma web para la autenticación y gestión integral del personal, optimizando los procesos internos y reforzando la seguridad de la información. Participé en el diseño y administración de bases de datos, aplicando principios avanzados de modelado de datos y utilizando tecnologías como PHP, Scriptcase, SQL Server, HTML5, CSS3+, JavaScript y Bootstrap para garantizar un sistema eficiente, escalable y seguro.</p>
+</p>Lideré el desarrollo de una plataforma web para la autenticación y gestión integral del personal, optimizando los procesos internos y reforzando la seguridad de la información. Participé en el diseño y administración de bases de datos, aplicando principios avanzados de modelado de datos y utilizando tecnologías como PHP, Scriptcase, SQL Server, HTML5, CSS3+, JavaScript y Bootstrap. "Esta versión en GitHub es solo una demostración y no representa la plataforma en producción." .</p>
 </div>                                                             
 </table>                                                                                 
 </div>
