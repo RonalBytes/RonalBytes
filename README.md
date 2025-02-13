@@ -96,7 +96,7 @@
                <br>
 <h3 align="center">plataforma web para la autenticación y gestión integral del personal</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/3jFqdV4.png" width="450" alt="Plataforma de gestion PHP"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/3jFqdV4.png" width="380" alt="Plataforma de gestion PHP"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
@@ -106,7 +106,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Lideré el desarrollo de una plataforma web para la autenticación y gestión integral del personal, optimizando los procesos internos y reforzando la seguridad de la información. Participé en el diseño y administración de bases de datos, aplicando principios avanzados de modelado de datos y utilizando tecnologías como PHP, Scriptcase, SQL Server, HTML5, CSS3+, JavaScript y Bootstrap para garantizar un sistema eficiente, escalable y seguro.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
