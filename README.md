@@ -78,7 +78,7 @@
 <td width="50%">
 <h3 align="center">Sitio web para la gestión de inscripciones de estudiantes</h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://i.imgur.com/AuY1iFc.jpeg" width="400" alt="Curso básico android"></a>
+<a href="" target="_blank"><img src="https://i.imgur.com/2oKmBP8.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
