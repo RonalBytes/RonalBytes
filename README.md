@@ -80,7 +80,7 @@
 <div align="center">
 <a href="" target="_blank"><img src="https://i.imgur.com/2oKmBP8.png" width="400" alt="Curso básico android"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/RonalBytes/Sistema-de-Gesti-n-e-Inscripci-n-de-Estudiantes" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com" target="_blank">
