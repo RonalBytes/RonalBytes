@@ -35,7 +35,7 @@
 <ul align="left">
   <li>Profundizando mis conocimientos en el mundo backend.</li>
   <li>Explorando el mundo de machine learning y AI.</li>
-  <li>Mejorando mis habilidad en computaaón en la nube con AWS y Azure.</li>
+  <li>Mejorando mis habilidad en computación en la nube con AWS y Azure.</li>
 </ul>
   
 
