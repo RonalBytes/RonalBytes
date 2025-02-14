@@ -19,7 +19,7 @@
 - 🌱 Actualmente estoy aprendiendo muchas cosas, creo que cada día es una oportunidad de aprendizaje.
 - ✍ Proximamente canal de youtube 
 - ❤ Contribuyendo con la comunidad.
-- 💻 Visita mi portafolio (Link proximamente) para mas detalles sobre mi.
+- 💻 Visita mi portafolio :D.
 <!--End Intro-->
 
 <!--Languages and Tools Section-->       
