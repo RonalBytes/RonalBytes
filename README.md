@@ -13,7 +13,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Soy un desarrollador Full Stack y entusiasta del aprendizaje automático con un gran amor por Python, React.js, Node.js, Django, RDBMS, REST API y visualización de datos.. </p>
+<p align="left">Soy un desarrollador Full Stack y entusiasta del aprendizaje automático con un gran amor por Python,Php, Laravel , React.js, Node.js, Django, RDBMS, REST API y visualización de datos.. </p>
 
 - ✨ Egresado de Ingenieria de sistemas :)
 - 🌱 Actualmente estoy aprendiendo muchas cosas, creo que cada día es una oportunidad de aprendizaje.
