@@ -15,11 +15,11 @@
 <!--Start Intro-->               
 <p align="left">Soy un desarrollador Full Stack y entusiasta del aprendizaje automático con un gran amor por Java,Php, Laravel , Node.js, DevOps y visualización de datos.. </p>
 
-- ✨ Egresado de Ingenieria de sistemas :)
+- ✨ Egresado de Ingenieria de sistemas a pocas semanas de ser Bachiller !!
 - 🌱 Actualmente estoy aprendiendo muchas cosas, creo que cada día es una oportunidad de aprendizaje.
-- ✍ Proximamente canal de youtube 
+- ✍ Proximamente Nuevos desafios
 - ❤ Contribuyendo con la comunidad.
-- 💻 Visita mi portafolio :D.
+- 💻 Gracias por visitar mi portafolio .
 <!--End Intro-->
 
 <!--Languages and Tools Section-->       
