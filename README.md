@@ -146,7 +146,7 @@
           La aplicación muestra resultados filtrados por nombre, código o presentación, 
           optimizando el tiempo de atención y evitando errores manuales.  
           <br><br>
-          <em>“Proyecto implementado en entorno hospitalario real, desarrollado con PHP, MySQL y Laravel.”</em>
+          <em>"Esta versión en GitHub es solo una demostración desarrollada desde cero y no representa la plataforma en producción."</em>
         </p>
       </div>
     </td>
@@ -169,6 +169,8 @@
           Sistema implementado en el Hospital Loayza que permite registrar el ingreso del personal
       mediante escaneo de código <em>QR</em> o búsqueda por <em>DNI</em>, verificando identidad y registrando
       automáticamente la hora de entrada; al confirmar, el sistema actualiza el estado a <strong>“Ingreso registrado”</strong>.
+          <br><br>
+          <em>"Esta versión en GitHub es solo una demostración desarrollada desde cero y no representa la plataforma en producción."</em>
         </p>
       </div>
     </td>
