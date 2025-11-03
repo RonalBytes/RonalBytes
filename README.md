@@ -149,7 +149,7 @@
       </div>
     </td>
      <!-- Proyecto 4 -->
-    <td width="40%">
+    <td width="10%">
       <h3 align="center">Dashboard administrativo con analítica</h3>
       <div align="center">
         <a href="https://github.com/RonalBytes/Dashboard-Analitico" target="_blank">
