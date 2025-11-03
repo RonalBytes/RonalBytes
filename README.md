@@ -104,7 +104,7 @@
   <h3 align="center">Plataforma web para la autenticación y gestión integral del personal</h3>
       <div align="center">
         <a href="" target="_blank">
-          <img src="https://i.imgur.com/3jFqdV4.png" width="380" alt="Plataforma de gestion PHP">
+          <img src="https://i.imgur.com/3jFqdV4.png" width="400" alt="Plataforma de gestion PHP">
         </a>
         <p>
           <a href="" target="_blank">
@@ -149,7 +149,7 @@
       </div>
     </td>
      <!-- Proyecto 4 -->
-    <td width="10%">
+    <td width="50%">
       <h3 align="center">Dashboard administrativo con analítica</h3>
       <div align="center">
         <a href="https://github.com/RonalBytes/Dashboard-Analitico" target="_blank">
