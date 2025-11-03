@@ -72,59 +72,109 @@
 
 <!--Github stats Table--> 
 <!-- Github stats Table -->
+<!-- Github Projects Section -->
 <h2 align="center">📊 Proyectos Laborales 📊</h2>
 
 <table>
+  <!-- Primera fila -->
   <tr>
     <td width="50%">
       <h3 align="center">Sitio web para la gestión de inscripciones de estudiantes</h3>
       <div align="center">
-        <a href="" target="_blank">
-          <img src="https://i.imgur.com/2oKmBP8.png" width="400" alt="Curso básico android">
+        <a href="https://github.com/RonalBytes/Sistema-de-Gesti-n-e-Inscripci-n-de-Estudiantes" target="_blank">
+          <img src="https://i.imgur.com/2oKmBP8.png" width="400" alt="Gestión de Inscripciones">
         </a>
         <p>
           <a href="https://github.com/RonalBytes/Sistema-de-Gesti-n-e-Inscripci-n-de-Estudiantes" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Código GitHub">
           </a>
           <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40" alt="Video YouTube">
           </a>
         </p>
         <p>
-          Responsable del desarrollo de la plataforma web para la gestión de inscripciones de estudiantes para un
-          Instituto del Perú, bajo la gestión exclusiva de la empresa. Se implementaron funcionalidades para
-          simplificar y automatizar el proceso de inscripción, mejorando la eficiencia administrativa y la experiencia
-          del usuario. <br><br>
-          <em>"Esta versión en GitHub es solo una demostración y no representa la plataforma en producción."
+          Desarrollo de una plataforma web para la gestión de inscripciones de estudiantes en un instituto peruano,
+          optimizando procesos administrativos y mejorando la experiencia del usuario.  
+          <br><br>
+          <em>“Versión de demostración, no representa la plataforma en producción.”</em>
         </p>
       </div>
     </td>
-<td width="50%"> <br>
-   
-  <h3 align="center">Plataforma web para la autenticación y gestión integral del personal</h3>
+
+    <td width="50%">
+      <h3 align="center">Plataforma web para la autenticación y gestión integral del personal</h3>
       <div align="center">
-        <a href="" target="_blank">
-          <img src="https://i.imgur.com/3jFqdV4.png" width="380" alt="Plataforma de gestion PHP">
+        <a href="#" target="_blank">
+          <img src="https://i.imgur.com/3jFqdV4.png" width="380" alt="Gestión de Personal">
         </a>
         <p>
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Código GitHub">
           </a>
           <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f" alt="Video YouTube">
           </a>
         </p>
         <p>
-          Lideré el desarrollo de una plataforma web para la autenticación y gestión integral del personal,
-          optimizando los procesos internos y reforzando la seguridad de la información. Participé en el diseño y
-          administración de bases de datos, aplicando principios avanzados de modelado de datos y utilizando
-          tecnologías como PHP, Scriptcase, SQL Server, HTML5, CSS3+, JavaScript y Bootstrap. <br><br>
-          <em>"Esta versión en GitHub es solo una demostración desarrollada desde cero y no representa la plataforma en producción."</em>
+          Plataforma desarrollada para la autenticación y gestión de personal, aplicando buenas prácticas de seguridad
+          y bases de datos relacionales.  
+          <br><br>
+          <em>“Proyecto de demostración desarrollado desde cero.”</em>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Segunda fila (nuevos proyectos) -->
+  <tr>
+    <td width="50%">
+      <h3 align="center">Sistema de Inventario Hospitalario</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://i.imgur.com/tYv6s1x.png" width="400" alt="Inventario Hospitalario">
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ffb347?style=for-the-badge&logo=github&logoColor=black" alt="Código GitHub">
+          </a>
+          <a href="https://www.youtube.com" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF6347" alt="Video YouTube">
+          </a>
+        </p>
+        <p>
+          Sistema de inventario desarrollado para la gestión y control de medicamentos, equipos y suministros médicos,
+          con generación automática de reportes en PDF.  
+          <br><br>
+          <em>“Proyecto interno basado en Laravel y MySQL.”</em>
+        </p>
+      </div>
+    </td>
+
+    <td width="50%">
+      <h3 align="center">Dashboard Analítico para Ventas</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://i.imgur.com/kd4vPpL.png" width="400" alt="Dashboard Ventas">
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-77DD77?style=for-the-badge&logo=github&logoColor=black" alt="Código GitHub">
+          </a>
+          <a href="https://www.youtube.com" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=40E0D0" alt="Video YouTube">
+          </a>
+        </p>
+        <p>
+          Dashboard interactivo para análisis de ventas, creado con **React**, **Node.js** y **Chart.js**, que muestra
+          métricas en tiempo real sobre desempeño comercial y tendencias.  
+          <br><br>
+          <em>“Proyecto demostrativo enfocado en análisis de datos.”</em>
         </p>
       </div>
     </td>
   </tr>
 </table>
+
 
 
 
