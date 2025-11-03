@@ -126,7 +126,7 @@
   </tr>
   <!-- Proyecto 3 -->
     <td width="50%">
-      <h3 align="center">Sistema de inventario hospitalario</h3>
+      <h3 align="center">Sistema de consulta de medicamentos - Galenos Loayza</h3>
       <div align="center">
         <a href="https://github.com/RonalBytes/Sistema-Inventario-Hospitalario" target="_blank">
           <img src="https://i.imgur.com/x1Y5YXt.png" width="400" alt="Inventario hospitalario">
@@ -140,11 +140,13 @@
           </a>
         </p>
         <p>
-          Desarrollo de un módulo de inventario integrado al sistema hospitalario **RESYS**, 
-          permitiendo el control de insumos médicos y productos en tiempo real.  
-          Implementado con **Laravel 10, PHP y MySQL**.  
+          Desarrollo de un **sistema web interno** para el área de Farmacia del 
+          <strong>Hospital Nacional Arzobispo Loayza</strong>, que permite consultar de forma rápida los medicamentos
+          registrados en la base de datos **Galenos**.  
+          La aplicación muestra resultados filtrados por nombre, código o presentación, 
+          optimizando el tiempo de atención y evitando errores manuales.  
           <br><br>
-          <em>“Desarrollado como parte del sistema del Hospital Nacional Arzobispo Loayza.”</em>
+          <em>“Proyecto implementado en entorno hospitalario real, desarrollado con PHP, MySQL y Laravel.”</em>
         </p>
       </div>
     </td>
