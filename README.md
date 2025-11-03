@@ -72,18 +72,15 @@
 
 <!--Github stats Table--> 
 <!-- Github stats Table -->
-<!-- Github Projects Section -->
 <h2 align="center">📊 Proyectos Laborales 📊</h2>
 
 <table>
-  <!-- Fila 1 -->
   <tr>
-    <!-- Proyecto 1 -->
     <td width="50%">
       <h3 align="center">Sitio web para la gestión de inscripciones de estudiantes</h3>
       <div align="center">
-        <a href="https://github.com/RonalBytes/Sistema-de-Gesti-n-e-Inscripci-n-de-Estudiantes" target="_blank">
-          <img src="https://i.imgur.com/2oKmBP8.png" width="400" alt="Gestión de Inscripciones">
+        <a href="" target="_blank">
+          <img src="https://i.imgur.com/2oKmBP8.png" width="400" alt="Curso básico android">
         </a>
         <p>
           <a href="https://github.com/RonalBytes/Sistema-de-Gesti-n-e-Inscripci-n-de-Estudiantes" target="_blank">
@@ -94,23 +91,23 @@
           </a>
         </p>
         <p>
-          Desarrollo de una plataforma web para la gestión de inscripciones de estudiantes de un instituto en Perú.
-          Se implementaron funcionalidades para automatizar el proceso y mejorar la eficiencia administrativa.  
-          <br><br>
-          <em>“Esta versión en GitHub es solo una demostración y no representa la plataforma en producción.”</em>
+          Responsable del desarrollo de la plataforma web para la gestión de inscripciones de estudiantes para un
+          Instituto del Perú, bajo la gestión exclusiva de la empresa. Se implementaron funcionalidades para
+          simplificar y automatizar el proceso de inscripción, mejorando la eficiencia administrativa y la experiencia
+          del usuario. <br><br>
+          <em>"Esta versión en GitHub es solo una demostración y no representa la plataforma en producción."
         </p>
       </div>
     </td>
-
-    <!-- Proyecto 2 -->
-    <td width="50%">
-      <h3 align="center">Plataforma web para la autenticación y gestión integral del personal</h3>
+<td width="50%"> <br>
+   
+  <h3 align="center">Plataforma web para la autenticación y gestión integral del personal</h3>
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://i.imgur.com/3jFqdV4.png" width="380" alt="Gestión de personal">
+        <a href="" target="_blank">
+          <img src="https://i.imgur.com/3jFqdV4.png" width="380" alt="Plataforma de gestion PHP">
         </a>
         <p>
-          <a href="#" target="_blank">
+          <a href="" target="_blank">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://www.youtube.com" target="_blank">
@@ -118,67 +115,16 @@
           </a>
         </p>
         <p>
-          Desarrollo de una plataforma web para la autenticación y gestión integral del personal, optimizando procesos internos y reforzando la seguridad de la información.  
-          Implementada con **PHP, Scriptcase, SQL Server, HTML5, CSS3, JavaScript y Bootstrap**.  
-          <br><br>
-          <em>“Versión de demostración desarrollada desde cero, no representa la plataforma en producción.”</em>
-        </p>
-      </div>
-    </td>
-  </tr>
-
-  <!-- Fila 2 -->
-  <tr>
-    <!-- Proyecto 3 -->
-    <td width="50%">
-      <h3 align="center">Sistema de inventario hospitalario</h3>
-      <div align="center">
-        <a href="https://github.com/RonalBytes/Sistema-Inventario-Hospitalario" target="_blank">
-          <img src="https://i.imgur.com/x1Y5YXt.png" width="400" alt="Inventario hospitalario">
-        </a>
-        <p>
-          <a href="https://github.com/RonalBytes/Sistema-Inventario-Hospitalario" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-99CCFF?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=40E0D0">
-          </a>
-        </p>
-        <p>
-          Desarrollo de un módulo de inventario integrado al sistema hospitalario **RESYS**, 
-          permitiendo el control de insumos médicos y productos en tiempo real.  
-          Implementado con **Laravel 10, PHP y MySQL**.  
-          <br><br>
-          <em>“Desarrollado como parte del sistema del Hospital Nacional Arzobispo Loayza.”</em>
-        </p>
-      </div>
-    </td>
-<!-- Proyecto 4 -->
-    <td width="50%">
-      <h3 align="center">Dashboard administrativo con analítica</h3>
-      <div align="center">
-        <a href="https://github.com/RonalBytes/Dashboard-Analitico" target="_blank">
-          <img src="https://i.imgur.com/ScsYxKY.png" width="380" alt="Dashboard analítico">
-        </a>
-        <p>
-          <a href="https://github.com/RonalBytes/Dashboard-Analitico" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-FFD700?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF69B4">
-          </a>
-        </p>
-        <p>
-          Creación de un panel administrativo con **gráficos dinámicos, KPIs y reportes automáticos**, 
-          usando **Chart.js, PHP y MySQL**.  
-          <br><br>
-          <em>“Proyecto enfocado en la visualización de métricas clave y control administrativo.”</em>
+          Lideré el desarrollo de una plataforma web para la autenticación y gestión integral del personal,
+          optimizando los procesos internos y reforzando la seguridad de la información. Participé en el diseño y
+          administración de bases de datos, aplicando principios avanzados de modelado de datos y utilizando
+          tecnologías como PHP, Scriptcase, SQL Server, HTML5, CSS3+, JavaScript y Bootstrap. <br><br>
+          <em>"Esta versión en GitHub es solo una demostración desarrollada desde cero y no representa la plataforma en producción."</em>
         </p>
       </div>
     </td>
   </tr>
 </table>
-
 
 
 
