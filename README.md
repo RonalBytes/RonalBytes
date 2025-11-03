@@ -107,7 +107,30 @@
 </a>
 </p>
 </p>Lideré el desarrollo de una plataforma web para la autenticación y gestión integral del personal, optimizando los procesos internos y reforzando la seguridad de la información. Participé en el diseño y administración de bases de datos, aplicando principios avanzados de modelado de datos y utilizando tecnologías como PHP, Scriptcase, SQL Server, HTML5, CSS3+, JavaScript y Bootstrap. "Esta versión en GitHub es solo una demostración desarrollada desde cero y no representa la plataforma en producción." .</p>
-</div>                                                             
+</div>
+
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Plataforma web para la autenticación y gestión integral del personal</h3>
+<div align="center">                                       
+<a href="" target="_blank"><img src="https://i.imgur.com/3jFqdV4.png" width="380" alt="Plataforma de gestion PHP"></a>
+<br>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Lideré el desarrollo de una plataforma web para la autenticación y gestión integral del personal, optimizando los procesos internos y reforzando la seguridad de la información. Participé en el diseño y administración de bases de datos, aplicando principios avanzados de modelado de datos y utilizando tecnologías como PHP, Scriptcase, SQL Server, HTML5, CSS3+, JavaScript y Bootstrap. "Esta versión en GitHub es solo una demostración desarrollada desde cero y no representa la plataforma en producción." .</p>
+</div>
+
+
+
+  
 </table>                                                                                 
 </div>
 <br>
