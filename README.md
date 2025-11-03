@@ -162,7 +162,7 @@
             <img src="https://img.shields.io/badge/CÓDIGO-FFD700?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF69B4">
+            <img src="https://imgur.com/a/R0Aswm44">
           </a>
         </p>
         <p>
