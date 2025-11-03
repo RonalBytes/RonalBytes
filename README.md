@@ -152,7 +152,7 @@
     </td>
      <!-- Proyecto 4 -->
     <td width="50%">
-      <h3 align="center">Dashboard administrativo con analítica</h3>
+      <h3 align="center">Sistema de control de asistencia con QR y DNI - Loayza</h3>
       <div align="center">
         <a href="https://github.com/RonalBytes/Dashboard-Analitico" target="_blank">
           <img src="https://i.imgur.com/ScsYxKY.png" width="380" alt="Dashboard analítico">
@@ -166,10 +166,9 @@
           </a>
         </p>
         <p>
-          Creación de un panel administrativo con **gráficos dinámicos, KPIs y reportes automáticos**, 
-          usando **Chart.js, PHP y MySQL**.  
-          <br><br>
-          <em>“Proyecto enfocado en la visualización de métricas clave y control administrativo.”</em>
+          Sistema implementado en el Hospital Loayza que permite registrar el ingreso del personal
+      mediante escaneo de código <em>QR</em> o búsqueda por <em>DNI</em>, verificando identidad y registrando
+      automáticamente la hora de entrada; al confirmar, el sistema actualiza el estado a <strong>“Ingreso registrado”</strong>.
         </p>
       </div>
     </td>
