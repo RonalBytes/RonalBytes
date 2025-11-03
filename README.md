@@ -129,7 +129,7 @@
       <h3 align="center">Sistema de consulta de medicamentos - Galenos Loayza</h3>
       <div align="center">
         <a href="https://github.com/RonalBytes/Sistema-Inventario-Hospitalario" target="_blank">
-          <img src="https://i.imgur.com/8Pihtpp.png" width="400" alt="Inventario hospitalario">
+          <img src="https://i.imgur.com/bDnmrzZ.png" width="400" alt="Inventario hospitalario">
         </a>
         <p>
           <a href="https://github.com/RonalBytes/Sistema-Inventario-Hospitalario" target="_blank">
