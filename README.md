@@ -136,7 +136,7 @@
             <img src="https://img.shields.io/badge/CÓDIGO-99CCFF?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=40E0D0">
+            <img src="https://imgur.com/a/R0Aswm4">
           </a>
         </p>
         <p>
