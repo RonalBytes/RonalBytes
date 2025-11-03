@@ -1,63 +1,77 @@
-<!-- Banner -->
+<!--Banner-->
 ![RonalBytes Banner Image](./banner.png)
 
-<!-- Night Owl image -->
-<div align="right">
-  <img width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl">
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!-- Header Name -->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Soy **Ronaldo Elias**
-*Egresado en Ingeniería de Sistemas Computacionales (Developer / Programmer)*  
-<br>
 
-<!-- Start Intro -->
-<p align="left">
-Soy un desarrollador Full Stack y entusiasta del aprendizaje automático con un gran amor por **Java, PHP, Laravel, Node.js, DevOps y la visualización de datos**.
-</p>
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola soy Ronaldo Elias! 
+* Egresado en Ingenieria en sistemas computacional (Developer / Programmer)*
+<br /> 
 
-- ✨ Egresado de Ingeniería de Sistemas, a pocas semanas de ser Bachiller.  
-- 🌱 Actualmente aprendiendo nuevas tecnologías — cada día es una oportunidad de aprendizaje.  
-- ✍ Próximamente nuevos desafíos.  
-- ❤️ Contribuyendo con la comunidad.  
-- 💻 Gracias por visitar mi portafolio.
+<!--Start Intro-->               
+<p align="left">Soy un desarrollador Full Stack y entusiasta del aprendizaje automático con un gran amor por Java,Php, Laravel , Node.js, DevOps y visualización de datos.. </p>
 
----
+- ✨ Egresado de Ingenieria de sistemas a pocas semanas de ser Bachiller !!
+- 🌱 Actualmente estoy aprendiendo muchas cosas, creo que cada día es una oportunidad de aprendizaje.
+- ✍ Proximamente Nuevos desafios
+- ❤ Contribuyendo con la comunidad.
+- 💻 Gracias por visitar mi portafolio .
+<!--End Intro-->
 
-<!-- Technologies & Projects Section -->
-<h2 align="center">🚀 Tecnologías Utilizadas & Proyectos Recientes</h2>
-
+<!--Languages and Tools Section-->       
+<h2 align="center">Tecnologias Utilizadas & Proyectos Recientes</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Habilidades animadas" src="./Skills_Animation_White.gif" width="300">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
+<br />
 
-<h3 align="left">📘 Aprendizaje Actual</h3>
+<h3 align="left">Aprendizaje Actual</h3>
 <ul align="left">
   <li>Profundizando mis conocimientos en el mundo backend.</li>
-  <li>Explorando machine learning y AI.</li>
-  <li>Mejorando mis habilidades en computación en la nube con AWS y Azure.</li>
+  <li>Explorando el mundo de machine learning y AI.</li>
+  <li>Mejorando mis habilidad en computación en la nube con AWS y Azure.</li>
 </ul>
+  
 
-<br clear="left"/>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-<!-- Profile Count Badge -->
+
+<!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RonalBytes&label=Vistas%20de%20Perfil&color=770677&style=for-the-badge&logo=star" alt="contador de vistas" />
+  <img src="https://komarev.com/ghpvc/?username=RonalBytes&label=Vistas%20de%20%20Perfil&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
+<br />
 
-<!-- Languages and Tools Section -->
-<h2 align="center">🛠️ Languages & Tools</h2>
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10" alt="Lenguajes y herramientas">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
 </p>
+<br />
 
----
 
-<!-- Github Projects Section -->
+<!--Trophies Section-->   
+
+
+<!--Github stats Table--> 
+<!-- Github stats Table -->
 <h2 align="center">📊 Proyectos Laborales 📊</h2>
 
 <table>
@@ -65,65 +79,70 @@ Soy un desarrollador Full Stack y entusiasta del aprendizaje automático con un 
     <td width="50%">
       <h3 align="center">Sitio web para la gestión de inscripciones de estudiantes</h3>
       <div align="center">
-        <a href="https://github.com/RonalBytes/Sistema-de-Gesti-n-e-Inscripci-n-de-Estudiantes" target="_blank">
-          <img src="https://i.imgur.com/2oKmBP8.png" width="400" alt="Gestión de Inscripciones">
+        <a href="" target="_blank">
+          <img src="https://i.imgur.com/2oKmBP8.png" width="400" alt="Curso básico android">
         </a>
         <p>
           <a href="https://github.com/RonalBytes/Sistema-de-Gesti-n-e-Inscripci-n-de-Estudiantes" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Código en GitHub">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40" alt="Video en YouTube">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
           </a>
         </p>
         <p>
-          Desarrollo de una plataforma web para la gestión de inscripciones de estudiantes de un instituto en Perú.
-          Se implementaron funcionalidades para automatizar el proceso y mejorar la eficiencia administrativa.  
-          <br><br>
-          <em>“Esta versión en GitHub es solo una demostración y no representa la plataforma en producción.”</em>
+          Responsable del desarrollo de la plataforma web para la gestión de inscripciones de estudiantes para un
+          Instituto del Perú, bajo la gestión exclusiva de la empresa. Se implementaron funcionalidades para
+          simplificar y automatizar el proceso de inscripción, mejorando la eficiencia administrativa y la experiencia
+          del usuario. <br><br>
+          <em>"Esta versión en GitHub es solo una demostración y no representa la plataforma en producción."
         </p>
       </div>
     </td>
-
-    <td width="50%">
-      <h3 align="center">Plataforma web para la autenticación y gestión integral del personal</h3>
+<td width="50%"> <br>
+   
+  <h3 align="center">Plataforma web para la autenticación y gestión integral del personal</h3>
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://i.imgur.com/3jFqdV4.png" width="380" alt="Gestión de personal">
+        <a href="" target="_blank">
+          <img src="https://i.imgur.com/3jFqdV4.png" width="380" alt="Plataforma de gestion PHP">
         </a>
         <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Código en GitHub">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f" alt="Video en YouTube">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
           </a>
         </p>
         <p>
-          Desarrollo de una plataforma web para la autenticación y gestión integral del personal, optimizando procesos internos y reforzando la seguridad de la información.  
-          Implementada con **PHP, Scriptcase, SQL Server, HTML5, CSS3, JavaScript y Bootstrap**.  
-          <br><br>
-          <em>“Versión de demostración desarrollada desde cero, no representa la plataforma en producción.”</em>
+          Lideré el desarrollo de una plataforma web para la autenticación y gestión integral del personal,
+          optimizando los procesos internos y reforzando la seguridad de la información. Participé en el diseño y
+          administración de bases de datos, aplicando principios avanzados de modelado de datos y utilizando
+          tecnologías como PHP, Scriptcase, SQL Server, HTML5, CSS3+, JavaScript y Bootstrap. <br><br>
+          <em>"Esta versión en GitHub es solo una demostración desarrollada desde cero y no representa la plataforma en producción."</em>
         </p>
       </div>
     </td>
   </tr>
 </table>
 
----
 
-<!-- Contact Section -->
-<h2 align="center">🤝 Conéctate conmigo</h2>
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Conéctate conmigo. 🤝 </h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/ronaldo-elias-vera/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ronaldoeliasvera@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Gmail" />
-  </a>
+ <a href="https://www.linkedin.com/in/ronaldo-elias-vera/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:ronaldoeliasvera@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
 </div>
 
-<!-- Footer -->
+<!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="footer decorativo"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
