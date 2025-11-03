@@ -109,24 +109,50 @@
 </p>Lideré el desarrollo de una plataforma web para la autenticación y gestión integral del personal, optimizando los procesos internos y reforzando la seguridad de la información. Participé en el diseño y administración de bases de datos, aplicando principios avanzados de modelado de datos y utilizando tecnologías como PHP, Scriptcase, SQL Server, HTML5, CSS3+, JavaScript y Bootstrap. "Esta versión en GitHub es solo una demostración desarrollada desde cero y no representa la plataforma en producción." .</p>
 </div>
 
-</td>
+<table>
 
-<td width="50%">
-               <br>
-<h3 align="center">Plataforma web para la autenticación y gestión integral del personal</h3>
-<div align="center">                                       
-<a href="" target="_blank"><img src="https://i.imgur.com/3jFqdV4.png" width="380" alt="Plataforma de gestion PHP"></a>
-<br>
-<p>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://www.youtube.com" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Lideré el desarrollo de una plataforma web para la autenticación y gestión integral del personal, optimizando los procesos internos y reforzando la seguridad de la información. Participé en el diseño y administración de bases de datos, aplicando principios avanzados de modelado de datos y utilizando tecnologías como PHP, Scriptcase, SQL Server, HTML5, CSS3+, JavaScript y Bootstrap. "Esta versión en GitHub es solo una demostración desarrollada desde cero y no representa la plataforma en producción." .</p>
-</div>
+  <!-- Proyecto 1 -->
+  <tr>
+    <td width="100%">
+      <h3 align="center">Sitio web para la gestión de inscripciones de estudiantes</h3>
+      <div align="center">
+        <a href="" target="_blank"><img src="https://i.imgur.com/2oKmBP8.png" width="400" alt="Curso básico android"></a>
+        <p>
+          <a href="https://github.com/RonalBytes/Sistema-de-Gesti-n-e-Inscripci-n-de-Estudiantes" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://www.youtube.com" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+          </a>
+        </p>
+        <p>Responsable del desarrollo de la plataforma web para la gestión de inscripciones de estudiantes para un Instituto del Perú, bajo la gestión exclusiva de la empresa. Se implementaron funcionalidades para simplificar y automatizar el proceso de inscripción, mejorando la eficiencia administrativa y la experiencia del usuario. "Esta versión en GitHub es solo una demostración y no representa la plataforma en producción."</p>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Proyecto 2 -->
+  <tr>
+    <td width="100%">
+      <h3 align="center">Plataforma web para la autenticación y gestión integral del personal</h3>
+      <div align="center">
+        <a href="" target="_blank"><img src="https://i.imgur.com/3jFqdV4.png" width="400" alt="Plataforma de gestión PHP"></a>
+        <p>
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://www.youtube.com" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+          </a>
+        </p>
+        <p>Lideré el desarrollo de una plataforma web para la autenticación y gestión integral del personal, optimizando los procesos internos y reforzando la seguridad de la información. Participé en el diseño y administración de bases de datos, aplicando principios avanzados de modelado de datos y utilizando tecnologías como PHP, Scriptcase, SQL Server, HTML5, CSS3+, JavaScript y Bootstrap. "Esta versión en GitHub es solo una demostración desarrollada desde cero y no representa la plataforma en producción."</p>
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+
 
 
 
