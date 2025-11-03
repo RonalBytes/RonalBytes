@@ -124,6 +124,30 @@
       </div>
     </td>
   </tr>
+  <!-- Proyecto 3 -->
+    <td width="50%">
+      <h3 align="center">Sistema de inventario hospitalario</h3>
+      <div align="center">
+        <a href="https://github.com/RonalBytes/Sistema-Inventario-Hospitalario" target="_blank">
+          <img src="https://i.imgur.com/x1Y5YXt.png" width="400" alt="Inventario hospitalario">
+        </a>
+        <p>
+          <a href="https://github.com/RonalBytes/Sistema-Inventario-Hospitalario" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-99CCFF?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://www.youtube.com" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=40E0D0">
+          </a>
+        </p>
+        <p>
+          Desarrollo de un módulo de inventario integrado al sistema hospitalario **RESYS**, 
+          permitiendo el control de insumos médicos y productos en tiempo real.  
+          Implementado con **Laravel 10, PHP y MySQL**.  
+          <br><br>
+          <em>“Desarrollado como parte del sistema del Hospital Nacional Arzobispo Loayza.”</em>
+        </p>
+      </div>
+    </td>
 </table>
 
 
