@@ -148,6 +148,31 @@
         </p>
       </div>
     </td>
+     <!-- Proyecto 4 -->
+    <td width="50%">
+      <h3 align="center">Dashboard administrativo con analítica</h3>
+      <div align="center">
+        <a href="https://github.com/RonalBytes/Dashboard-Analitico" target="_blank">
+          <img src="https://i.imgur.com/ScsYxKY.png" width="380" alt="Dashboard analítico">
+        </a>
+        <p>
+          <a href="https://github.com/RonalBytes/Dashboard-Analitico" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-FFD700?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://www.youtube.com" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF69B4">
+          </a>
+        </p>
+        <p>
+          Creación de un panel administrativo con **gráficos dinámicos, KPIs y reportes automáticos**, 
+          usando **Chart.js, PHP y MySQL**.  
+          <br><br>
+          <em>“Proyecto enfocado en la visualización de métricas clave y control administrativo.”</em>
+        </p>
+      </div>
+    </td>
+  </tr>
+
 </table>
 
 
