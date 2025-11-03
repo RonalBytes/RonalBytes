@@ -152,7 +152,7 @@
     </td>
      <!-- Proyecto 4 -->
     <td width="50%">
-      <h3 align="center">Sistema de control de asistencia con QR y DNI - Loayza</h3>
+      <h3 align="center">Sistema de control de asistencia con QR y DNI - Hospital Arzobispo Loayza</h3>
       <div align="center">
         <a href="https://github.com/RonalBytes/Dashboard-Analitico" target="_blank">
           <img src="https://i.imgur.com/ScsYxKY.png" width="380" alt="Dashboard analítico">
