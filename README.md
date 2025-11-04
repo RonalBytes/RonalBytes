@@ -158,12 +158,6 @@
           <img src="https://i.imgur.com/GUQEdMm.png" width="400" alt="Dashboard analítico">
         </a>
         <p>
-          <a href="https://github.com/RonalBytes/Dashboard-Analitico" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-FFD700?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-          </a>
         </p>
         <p>
           Sistema implementado en el Hospital Loayza que permite registrar el ingreso del personal
