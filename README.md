@@ -107,8 +107,8 @@
           <img src="https://i.imgur.com/3jFqdV4.png" width="400" alt="Plataforma de gestion PHP">
         </a>
         <p>
-          <a href="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" target="_blank">
-            <img src="">
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://www.youtube.com" target="_blank">
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
