@@ -9,11 +9,11 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola soy Ronaldo Elias! 
-* Egresado en Ingenieria en sistemas computacional (Developer / Programmer)*
+* Bachiller en Ingenieria en sistemas computacional (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Soy un desarrollador Full Stack y entusiasta del aprendizaje automático con un gran amor por Java,Php, Laravel , Node.js, DevOps y visualización de datos.. </p>
+<p align="left">Soy un desarrollador Full Stack y entusiasta del aprendizaje automático con un gran amor por Python,Java, Php... </p>
 
 - ✨ Bachiller en Ingenieria de sistemas!
 - 🌱 Actualmente estoy aprendiendo muchas cosas, creo que cada día es una oportunidad de aprendizaje.
