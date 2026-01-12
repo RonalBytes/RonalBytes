@@ -133,7 +133,7 @@
         </a>
         <p>
           <a href="https://github.com/RonalBytes/Sistema-Inventario-Hospitalario" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-99CCFF?style=for-the-badge&logo=github&logoColor=black">
+            <img src="">
           </a>
           <a href="https://www.youtube.com" target="_blank">
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
