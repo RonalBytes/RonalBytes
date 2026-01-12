@@ -136,7 +136,7 @@
             <img src="">
           </a>
           <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+            <img src="">
           </a>
         </p>
         <p>
