@@ -15,7 +15,7 @@
 <!--Start Intro-->               
 <p align="left">Soy un desarrollador Full Stack y entusiasta del aprendizaje automático con un gran amor por Java,Php, Laravel , Node.js, DevOps y visualización de datos.. </p>
 
-- ✨ Egresado de Ingenieria de sistemas a pocas semanas de ser Bachiller !!
+- ✨ Bachiller en Ingenieria de sistemas!
 - 🌱 Actualmente estoy aprendiendo muchas cosas, creo que cada día es una oportunidad de aprendizaje.
 - ✍ Proximamente Nuevos desafios
 - ❤ Contribuyendo con la comunidad.
