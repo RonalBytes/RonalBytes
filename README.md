@@ -83,14 +83,6 @@
           <img src="https://i.imgur.com/2oKmBP8.png" width="400" alt="Curso básico android">
         </a>
         <p>
-          <a href="https://github.com/RonalBytes/Sistema-de-Gesti-n-e-Inscripci-n-de-Estudiantes" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-          </a>
-        </p>
-        <p>
           Responsable del desarrollo de la plataforma web para la gestión de inscripciones de estudiantes para un
           Instituto del Perú, bajo la gestión exclusiva de la empresa. Se implementaron funcionalidades para
           simplificar y automatizar el proceso de inscripción, mejorando la eficiencia administrativa y la experiencia
@@ -106,14 +98,6 @@
         <a href="" target="_blank">
           <img src="https://i.imgur.com/3jFqdV4.png" width="400" alt="Plataforma de gestion PHP">
         </a>
-        <p>
-          <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-          </a>
-        </p>
         <p>
           Lideré el desarrollo de una plataforma web para la autenticación y gestión integral del personal,
           optimizando los procesos internos y reforzando la seguridad de la información. Participé en el diseño y
@@ -149,14 +133,6 @@
         <a href="https://github.com/RonalBytes/Dashboard-Analitico" target="_blank">
           <img src="https://i.imgur.com/GUQEdMm.png" width="400" alt="Dashboard analítico">
         </a>
-        <p>
-          <a href="https://github.com/RonalBytes/Dashboard-Analitico" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-FFD700?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-          </a>
-        </p>
         <p>
           Sistema implementado en el Hospital Loayza que permite registrar el ingreso del personal
       mediante escaneo de código <em>QR</em> o búsqueda por <em>DNI</em>, verificando identidad y registrando
