@@ -126,28 +126,20 @@
   </tr>
   <!-- Proyecto 3 -->
     <td width="50%">
-      <h3 align="center">Sistema de consulta de medicamentos - Galenos Loayza</h3>
-      <div align="center">
-        <a href="https://github.com/RonalBytes/Sistema-Inventario-Hospitalario" target="_blank">
-          <img src="https://i.imgur.com/bDnmrzZ.png" width="400" alt="Inventario hospitalario">
-        </a>
-        <p>
-          <a href="https://github.com/RonalBytes/Sistema-Inventario-Hospitalario" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-99CCFF?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://www.youtube.com" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-          </a>
-        </p>
-        <p>
-          Desarrollo de un **sistema web interno** para el área de Farmacia del 
-          <strong>Hospital Nacional Arzobispo Loayza</strong>, que permite consultar de forma rápida los medicamentos
-          registrados en la base de datos **Galenos**.  
-          La aplicación muestra resultados filtrados por nombre, código o presentación, 
-          optimizando el tiempo de atención y evitando errores manuales.  
-          <br><br>
-          <em>"Esta versión en GitHub es solo una demostración desarrollada desde cero y no representa la plataforma en producción."</em>
-        </p>
+  <h3 align="center">Sistema de consulta de medicamentos - Galenos Loayza</h3>
+  <div align="center">
+    <a href="https://github.com/RonalBytes/Sistema-Inventario-Hospitalario" target="_blank">
+      <img src="https://i.imgur.com/bDnmrzZ.png" width="400" alt="Inventario hospitalario">
+    </a>
+    <p>
+      Desarrollo de un **sistema web interno** para el área de Farmacia del 
+      <strong>Hospital Nacional Arzobispo Loayza</strong>, que permite consultar de forma rápida los medicamentos
+      registrados en la base de datos **Galenos**.  
+      La aplicación muestra resultados filtrados por nombre, código o presentación, 
+      optimizando el tiempo de atención y evitando errores manuales.  
+      <br><br>
+      <em>"Esta versión en GitHub es solo una demostración desarrollada desde cero y no representa la plataforma en producción."</em>
+    </p>
       </div>
     </td>
      <!-- Proyecto 4 -->
