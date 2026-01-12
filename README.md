@@ -86,7 +86,9 @@
           <a href="https://github.com/RonalBytes/Sistema-de-Gesti-n-e-Inscripci-n-de-Estudiantes" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          
+          <a href="https://www.youtube.com" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+          </a>
         </p>
         <p>
           Responsable del desarrollo de la plataforma web para la gestión de inscripciones de estudiantes para un
