@@ -13,7 +13,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Soy un desarrollador Full Stack y entusiasta del aprendizaje automático con un gran amor por Python,Java, Php... </p>
+<p align="left">Soy un desarrollador Full Stack y entusiasta del aprendizaje con un gran amor por la programación... </p>
 
 - ✨ Bachiller en Ingenieria de sistemas!
 - 🌱 Actualmente estoy aprendiendo muchas cosas, creo que cada día es una oportunidad de aprendizaje.
